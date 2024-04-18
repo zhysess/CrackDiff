@@ -1,4 +1,4 @@
-This is the official repo of "The Crack Diffusion Model: An Innovative Diffusion-Based Method for Pavement Crack Detection".
+# This is the official repo of "The Crack Diffusion Model: An Innovative Diffusion-Based Method for Pavement Crack Detection".
 
 Suggest train and test on Linux.
 
